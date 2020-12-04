@@ -36,19 +36,14 @@ say_hello("Sylvain")
 
 
 ```python
-say_goodbye('ALi')
+say_goodbye('Ali')
 ```
 
 
-    ---------------------------------------------------------------------------
 
-    NameError                                 Traceback (most recent call last)
 
-    <ipython-input-39-d3e0a7ec0b8e> in <module>
-    ----> 1 say_goodbye('ALi')
-    
+    'Good-Bye Ali!'
 
-    NameError: name 'say_goodbye' is not defined
 
 
 ```python
@@ -58,19 +53,20 @@ o.say()
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-42-b5dfefbad183> in <module>
-          1 #HelloSayer
-    ----> 2 o = HelloSayer("Alexis")
-          3 o.say()
 
 
-    NameError: name 'HelloSayer' is not defined
+    'Hello Alexis!'
+
 
 
 ```python
-sa
+b=GoodBye('Asfand')
+b.say()
 ```
+
+
+
+
+    'Good-Bye Asfand!'
+
+
