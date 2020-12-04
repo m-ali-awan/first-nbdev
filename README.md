@@ -36,6 +36,7 @@ say_hello("Sylvain")
 
 
 ```python
+#HelloSayer
 o = HelloSayer("Alexis")
 o.say()
 ```
@@ -45,10 +46,15 @@ o.say()
 
     NameError                                 Traceback (most recent call last)
 
-    <ipython-input-8-bd2748f9f3ed> in <module>
-    ----> 1 o = HelloSayer("Alexis")
-          2 o.say()
+    <ipython-input-18-b5dfefbad183> in <module>
+          1 #HelloSayer
+    ----> 2 o = HelloSayer("Alexis")
+          3 o.say()
 
 
     NameError: name 'HelloSayer' is not defined
 
+
+```python
+sa
+```
