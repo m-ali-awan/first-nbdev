@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# Project Name: Experimenting nbdev
+> Summary: Let's explore what magic it has got
 
 
 This file will become your README and also the index of your documentation.
@@ -20,5 +20,17 @@ Fill me in please! Don't forget code examples:
 
 
     2
+
+
+
+```python
+say_hello("Sylvain")
+
+```
+
+
+
+
+    'Hello Sylvain!'
 
 
